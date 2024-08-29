@@ -34,9 +34,7 @@ oAMPP is an advanced, open-source solution for XAMPP User Account Control (UAC) 
 --------------
 
 ### Step 1: Download and Extract
-<p align="center">
-  <img src="oAMPP.png" alt="oAMPP Logo" width="500"/>
-</p>
+
 Download the latest release from the Releases page.
 Extract the ZIP file to your desired location.
 
