@@ -2,7 +2,7 @@
 =====================================================
 
 <p align="center">
-  <img src="oAMPP_logo.png" alt="oAMPP Logo" width="200"/>
+  <img src="https://github.com/nectariferous/oAMPP/raw/main/oAMPP_logo.png" alt="oAMPP Logo" width="200"/>
 </p>
 
 **Badges**
